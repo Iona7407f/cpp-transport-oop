@@ -1,7 +1,9 @@
 # C++ Transport OOP
 
-A small C++ project that models cars, ships, and airplanes to demonstrate classes and objects.
+A small C++ project for practicing object-oriented programming through models of cars, ships, and airplanes.
 
-- `Transport`, `Car`, `Ship`, and `Airplane` are defined in separate header and source files.
-- `main.cpp` is the entry point.
+## Concepts practiced
 
+- **Classes and objects** — modeling different types of transport.
+- **Inheritance** — using `Transport` as a base class for specific transport types.
+- **Virtual methods and polymorphism** — overriding `move()` so each transport type can define its own behavior.
